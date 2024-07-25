@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: watermark-sdk
+Version: 0.1
+Summary: A simple SDK for adding watermarks to images
+Home-page: https://github.com/Kevinniv/test.git
+Author: Kevin
+Author-email: 2893070885@qq.com
+Requires-Dist: Pillow
